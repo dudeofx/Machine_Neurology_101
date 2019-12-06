@@ -2,7 +2,9 @@
 Source Code to the video Machine Neurology 101
 
 YouTube url:
-https://www.youtube.com/watch?v=MSah1lv-Iw8
+
+part1: https://www.youtube.com/watch?v=MSah1lv-Iw8
+part2: https://www.youtube.com/watch?v=HUnx49sQ9Hg
 
 I Victor H Olvera, author of this work, here-by release it to the public-domain 
 
